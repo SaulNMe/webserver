@@ -63,3 +63,18 @@ body {
 .img-res {
     margin-bottom: 100px;
 }
+
+.flex-links {
+    display: flex;
+}
+
+.nav-link {
+    color: white;
+}
+
+.c-row {
+    display: flex;
+    justify-content: center;
+    vertical-align: middle;
+    align-items: center;
+}
